@@ -36,4 +36,4 @@ gcloud compute instances create gcelab2 --machine-type n1-standard-2 --zone $ZON
 
 
 ## This is the lab link with all the steps mentioned in it.
-[Lab Link](https://google.qwiklabs.com/focuses/560?parent=catalog)
+[Lab Link](https://google.qwiklabs.com/focuses/563?parent=catalog)
