@@ -9,10 +9,11 @@ This hands-on lab shows  how deploy a containerized application with Kubernetes 
 - When to use IAAS vs PAAS : IAAS is used if organization has an inhouse made app and simply need s infrastructure to host it. While PAAS is used to streamline deployment and development using services provided.
 - Cloud shell : Interactive environment from google to manage cloud easily from the Web Browser.
 - Kubernetes :It is open source platform for managing containerized applications and platforms . It runs multiple applications across multiple clusters . while Docker is to create conatiners , Kubernetes manages the containers.
-- Continers
-- Clusters
-- Node Pools
-- Load Balancing
+- Containers : These are exectable units of software , a form of vitual os with executables , binary codes . library to run a software application . Basically they are used to make a code device independent . The idea of code ruuning on any computer put one . 
+- Clusters : In GKE (Google Kubernetes Engine) a cluster consists of one control panel and various worker machines called nodes.
+- Node : Nodes are diffrent VM compute engine instances which are created when we create a cluster in GKE
+- Node Pools : Node pool is group of nodes in cluster that hae same configuration , i.e same local ssd , same cpu performance or node image .
+- Load Balancing : It is a feature in Google cloud to manage traffic across VM instances , health monitoring and maintainence of VM instances.
 
 
 ## What did i do ?
