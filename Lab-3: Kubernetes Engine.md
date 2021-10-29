@@ -6,10 +6,10 @@ This hands-on lab shows  how deploy a containerized application with Kubernetes 
 
 - Virtual Machine : In simple terms we can use VM's to have more thn one os on a single computer. OS within an OS. It is also used to provide computing services and storage options to anyone over cloud . So putting in perspective of cloud VM provide you an option to use a High end processor say I9(very bad example but bear it) over any machine say even if you have a Pentium processor , one can harness the power of cloud , internet and VM to get Computer with any linux image OS.
 - Google Cloud Platform : It is public cloud computing services offred by Google . Like AWS and Azure another leader in IAAS services and PAAS services. Compute engine which provides virtual machine is IAAS while App engine is PAAS.
-- When to use IAAS vs PAAS : IAAS is used if organization has an inhouse made app and simply need s infrastructure to host it. While PAAS is used to streamline deployment and development using services provided.
+- When to use IAAS vs PAAS : IAAS is used if organization has an inhouse made app and simply need an infrastructure to host it. While PAAS is used to streamline deployment and development using services provided.
 - Cloud shell : Interactive environment from google to manage cloud easily from the Web Browser.
 - Kubernetes :It is open source platform for managing containerized applications and platforms . It runs multiple applications across multiple clusters . while Docker is to create conatiners , Kubernetes manages the containers.
-- Containers : These are exectable units of software , a form of vitual os with executables , binary codes . library to run a software application . Basically they are used to make a code device independent . The idea of code ruuning on any computer put one . 
+- Containers : These are exectable units of software , a form of vitual os with executables , binary codes . Library to run a software application . Basically they are used to make a code device independent . The idea of code running on any computer put onto.
 - Clusters : In GKE (Google Kubernetes Engine) a cluster consists of one control panel and various worker machines called nodes.
 - Node : Nodes are diffrent VM compute engine instances which are created when we create a cluster in GKE
 - Node Pools : Node pool is group of nodes in cluster that hae same configuration , i.e same local ssd , same cpu performance or node image .
