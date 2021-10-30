@@ -1,6 +1,6 @@
 # Set Up Network and HTTP Load Balancers
-This is lab 4( Set Up Network and HTTP Load Balancers) of quest create and manage cloud resources we are allocated 30 minutes to complete the lab.
-This hands-on lab shows  how deploy a containerized application with Kubernetes Engine.
+This is lab 4( Set Up Network and HTTP Load Balancers) of quest Create and Manage Cloud resources we are allocated 30 minutes to complete the lab.
+This hands-on lab shows  how to set up HTTP load balancer and Networl Load Balancer and run them on Compute Engine VMs. .
 
 ## Understanding the terminologies
 
@@ -8,7 +8,13 @@ This hands-on lab shows  how deploy a containerized application with Kubernetes 
 - Google Cloud Platform : It is public cloud computing services offred by Google . Like AWS and Azure another leader in IAAS services and PAAS services. Compute engine which provides virtual machine is IAAS while App engine is PAAS.
 - When to use IAAS vs PAAS : IAAS is used if organization has an inhouse made app and simply need s infrastructure to host it. While PAAS is used to streamline deployment and development using services provided.
 - Cloud shell : Interactive environment from google to manage cloud easily from the Web Browser.
-- Network
+- Network : A collection of computers ,  servers , devices connected together an example is internet.
+- web server : It is a device hosting a website it stores , processes , delivers web pages to users. The communication is done using HTTP protocol.
+- Hosting : It is aprocess to of using a server to host a website 
+- cloud instance : usually it's one virtual machine used to provide cloud services 
+- web server instance : So this can be thought of as a single instance of webserver to host a website provided by cloud service providers . GCP , AWS , AZURE
+- Traffic meaning in web terms : Means data sent and received by website . It is measured in visits by user on website. Trackers are scripts kept to see what part of website is user interacting the most in a website about prefrences and improvements in the websites.
+- Google front end
 - HTTP
 - Load Balancing
 - Network load balancer vs HTTP Load balancer :
